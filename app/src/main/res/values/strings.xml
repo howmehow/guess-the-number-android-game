@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application4</string>
+    <string name="main_activity_guess_number_textview">Guess the number</string>
+    <string name="main_activity_insert_number_edittext">Insert number</string>
+    <string name="main_activity_guess_number_text">Guess the number</string>
+    <string name="main_activity_insert_number_text">Insert number</string>
+    <string name="main_activity_send_button_text">Check if you won</string>
+    <string name="main_activity_number_of_attempts">Attempts: %d</string>
+    <string name="title_for_end_message">You won!</string>
+    <string name="message_for_end_message">You did it, it only took you %d attempts!</string>
+    <string name="smaller_number_message">Our number is smaller</string>
+    <string name="bigger_number_message">Our number is bigger</string>
+</resources>
